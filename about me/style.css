@@ -23,6 +23,7 @@ body {
 }
 
 main {
+    padding: 10px;
     color: #b3b3b3;
     text-align: left;
     font-size: large;
