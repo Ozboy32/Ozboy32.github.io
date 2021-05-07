@@ -26,6 +26,7 @@ body {
     position: absolute;
     left: 25%;
     right: 25%;
+    width: 50%;
     color: #b3b3b3;
     text-align: left;
     font-size: large;
