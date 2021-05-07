@@ -22,18 +22,14 @@ body {
     padding: 5px;
 }
 
-.link {
-    position: absolute;
-    left: 25%;
-    right: 25%;
+main {
     color: #b3b3b3;
     text-align: left;
     font-size: large;
-    background-color: #404040;
+    background-color: #363636;
     border-radius: 10px;
-    text-align: center;
 }
 
-a {
-    text-decoration: none;
+.subheading {
+    text-align: center;
 }
