@@ -22,7 +22,8 @@ body {
     padding: 5px;
 }
 
-main {
+.text-box {
+    margin: auto;
     padding: 10px;
     color: #b3b3b3;
     text-align: left;

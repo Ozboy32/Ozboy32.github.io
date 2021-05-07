@@ -23,6 +23,7 @@ body {
 }
 
 .link {
+    padding: 1px;
     margin: auto;
     width: 50%;
     color: #b3b3b3;
